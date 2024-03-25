@@ -6,3 +6,12 @@ h1 {
     font-style: normal;
 }
 **/
+
+body {
+    background-color: lightgray;
+}
+
+#main {
+    width: 700px;
+    background-color: white;
+}
