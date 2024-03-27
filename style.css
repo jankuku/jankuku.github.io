@@ -24,6 +24,10 @@ body {
     border-radius: 30px;
 }
 
+img {
+    max-width: 600px;
+}
+
 a {
     text-decoration: none;
     color: blue;
