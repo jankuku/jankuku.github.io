@@ -24,6 +24,10 @@ body {
     border-radius: 30px;
 }
 
+p {
+    text-align: justify;
+}
+
 img {
     max-width: 600px;
 }
